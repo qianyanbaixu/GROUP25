@@ -1,4 +1,4 @@
 # SEDP
 Cailing Yang, rl24638@bristol.ac.uk, Charlynlynlyn
 Junjie Yan, am24166@bristol.ac.uk, Junjie818
-SHUAO,
+SHUAO ZHANG,qk24065@bristol.ac.uk,SHUAOCT
