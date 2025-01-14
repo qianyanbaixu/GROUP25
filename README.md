@@ -34,11 +34,11 @@ Include a demo video of your game here (you don't have to wait until the end, yo
 
 Add a group photo here!
 
-- Group member 1, Cailing Yang, rl24638@bristol.ac.uk, role
-- Group member 2, Junjie Yan, am24166@bristol.ac.uk, role
+- Group member 1, CAILING YANG, rl24638@bristol.ac.uk, role
+- Group member 2, JUNJIE YAN, am24166@bristol.ac.uk, role
 - Group member 3, SHUAO ZHANG, qk24065@bristol.ac.uk, role
-- Group member 4, Kexin Zhang, hy24895@bristol.ac.uk, role
-- Group member 5, Rui Xiong, yy24937@bristol.ac.uk, role
+- Group member 4, KEXIN ZHANG, hy24895@bristol.ac.uk, role
+- Group member 5, RUI XIONG, yy24937@bristol.ac.uk, role
 
 ## Project Report
 
