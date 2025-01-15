@@ -1,7 +1,5 @@
-# SEDP
+# Group Member
 
-Group Member
----
 CAILING YANG, rl24638@bristol.ac.uk, Charlynlynlyn  
 JUNJIE YAN, am24166@bristol.ac.uk, Junjie818  
 SHUAO ZHANG, qk24065@bristol.ac.uk , SHUAOCT  
