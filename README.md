@@ -1,3 +1,4 @@
+![WechatIMG132](https://github.com/user-attachments/assets/b800553c-0abc-432d-9147-08b91b691a85)
 # Group Member
 
 CAILING YANG, rl24638@bristol.ac.uk, Charlynlynlyn  
